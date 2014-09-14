@@ -1,0 +1,22 @@
+---
+layout: post
+title: "first"
+date: 2014-09-14 20:08:50 +0800
+comments: true
+categories: "扯蛋"
+---
+## why?
+> 1. **my blog**
+> 2. **hehe** 
+
+## what?
+> - *mac book*
+> - `mac air`
+```
+def hello
+    puts "Hello world!"
+end
+```
+[blulbu](http:://www.blublu.me)
+
+kkkk
