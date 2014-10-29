@@ -12,7 +12,7 @@ categories: "扯蛋"
 ## what?
 > - *mac book*
 > - `mac air`
-```
+```ruby hello.rb
 def hello
     puts "Hello world!"
 end
