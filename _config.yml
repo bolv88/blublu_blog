@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://blog.blublu.me
-title: blublu blog
+url: http://www.blublu.me
+title: 布鲁克的时空
 subtitle:  My blog.
 author: yubo
-simple_search: https://www.google.com/search
+simple_search: https://www.baidu.com/search
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
